@@ -2,9 +2,9 @@
 
 ## Olá! meu nome é Tatiane Freire 
 📕
--- 🌱 I’m currently learning  desenvolvimento Mobile,full-stack Java,UI/UX.
-- 📫 How to reach me: ...(011)9 5569-5142 /  tatianefreire2@outlook.com
-- 😄 Pronouns: ela /  dela
+-- 🌱 Gostaria de atuar nas áreas de Desenvolvimento; Mobile,full-stack Java,UI/UX.
+- 📫 contatos: ...(011)9 5569-5142 /  tatianefreire2@outlook.com
+- 😄 Pronomes: ela /  dela
 - 📚Estudando: Mobile (Android e IOS), full-stack Java, UI / UX, HTML5, CSS3, DART, Flutter, Logica de programação, Git E GitHub, Inglês.
 
 - 📕Tenho interesse: Phyton, SPA, SQL, ITIL, Kaban, MySQL. 
