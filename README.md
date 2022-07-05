@@ -5,7 +5,7 @@
 -- 🌱 Gostaria de atuar nas áreas de Desenvolvimento; Mobile,full-stack Java,UI/UX.
 - 📫 contatos: ...(011)9 5569-5142 /  tatianefreire2@outlook.com
 - 😄 Pronomes: ela /  dela
-- 📚Estudando: Mobile (Android e IOS), full-stack Java, UI / UX, HTML5, CSS3, DART, Flutter, Logica de programação, Git E GitHub, Inglês.
+- 📚Estudando: Mobile (Android e IOS), Python, UI / UX, HTML5, CSS3, DART, Flutter, Logica de programação, Git E GitHub.
 
 - 📕Tenho interesse: Phyton, SPA, SQL, ITIL, Kaban, MySQL. 
 </BR>
